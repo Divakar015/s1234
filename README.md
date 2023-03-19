@@ -1,3 +1,3 @@
 # s1234
-Naan mudhalavan projecy
+Naan mudhalavan project
 FULL STACK MERN PROJECT 
